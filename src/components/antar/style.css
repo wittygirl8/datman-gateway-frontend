@@ -1,0 +1,20 @@
+.payment-container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+.error {
+    color: #9C9C9C;
+    text-align: center;
+}
+.adyen-checkout__status, .adyen-checkout__status--success{
+    width: 46rem;
+}
+.adyen-checkout__card__brands__brand-wrapper img {
+    vertical-align: top !important;
+}
+.back-container {
+    display: block;
+    margin-bottom: 0.5rem;
+    width: 5em;
+}

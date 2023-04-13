@@ -1,0 +1,31 @@
+/* .text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+} */
+.footer-size {
+    font-size: 10px;
+  }
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+  }
+  .error-color {
+    border-color: #ffcccb !important;
+  }
+
+  #change-color-on-hover:hover {
+    color: #536dfe;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .alert-box {
+    margin-top: 7rem !important;
+  }
+  .back-btn-container {
+    margin-bottom: 0.5rem;
+    width: auto;
+    max-width: 6rem;
+  }
